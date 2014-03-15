@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignWritingBasicObjects", "SignWritingBasicObjects\SignWritingBasicObjects.csproj", "{047C1AF1-3E35-47AF-8DA0-778362B9555C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSW", "FSW\FSW.csproj", "{80D83E4C-C620-457A-920D-D1F99249A95E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISWA2010 XAML", "ISWA2010XAML\ISWA2010 XAML.csproj", "{6933AC1C-2AC3-4D65-A437-31FF17B49326}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISWA 2010 XAML Test", "ISWA 2010 XAML Test\ISWA 2010 XAML Test.csproj", "{9063214C-BEED-490B-A394-46C158614D95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{047C1AF1-3E35-47AF-8DA0-778362B9555C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{047C1AF1-3E35-47AF-8DA0-778362B9555C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{047C1AF1-3E35-47AF-8DA0-778362B9555C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{047C1AF1-3E35-47AF-8DA0-778362B9555C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80D83E4C-C620-457A-920D-D1F99249A95E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D83E4C-C620-457A-920D-D1F99249A95E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D83E4C-C620-457A-920D-D1F99249A95E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D83E4C-C620-457A-920D-D1F99249A95E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6933AC1C-2AC3-4D65-A437-31FF17B49326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6933AC1C-2AC3-4D65-A437-31FF17B49326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6933AC1C-2AC3-4D65-A437-31FF17B49326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6933AC1C-2AC3-4D65-A437-31FF17B49326}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9063214C-BEED-490B-A394-46C158614D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9063214C-BEED-490B-A394-46C158614D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9063214C-BEED-490B-A394-46C158614D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9063214C-BEED-490B-A394-46C158614D95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
